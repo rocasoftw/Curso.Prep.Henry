@@ -1,0 +1,2 @@
+for --> Es un bucle que me permite evaluar expresiones
+&&, ||, ! --> Son operadores logicos AND, OR y NOT 
