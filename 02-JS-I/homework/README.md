@@ -4,11 +4,11 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables --> Es una manera que javascript tiene de almacenar valores
-	* Strings -->	Son un tipo de variable
-	* Funciones (argumentos, `return`) -->	Permiten realizar acciones y evitan repetir codigo
-	* Declaraciones `if` --> Permiten controlar el flujo del programa
-	* Valores booleanos (`true`, `false`) --> Son el resultado de comparaciones
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
 
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/

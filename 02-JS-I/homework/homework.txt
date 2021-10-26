@@ -1,0 +1,5 @@
+    * Variables --> Es una manera que javascript tiene de almacenar valores
+	* Strings -->	Son un tipo de variable
+	* Funciones (argumentos, `return`) -->	Permiten realizar acciones y evitan repetir codigo
+	* Declaraciones `if` --> Permiten controlar el flujo del programa
+	* Valores booleanos (`true`, `false`) --> Son el resultado de comparaciones
