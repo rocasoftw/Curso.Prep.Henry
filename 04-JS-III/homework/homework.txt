@@ -1,0 +1,1 @@
+Los arrays son variable que me permite contener una gran cantidad de datos
