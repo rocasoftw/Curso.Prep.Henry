@@ -1,0 +1,6 @@
+Objetos -> Son contenedores de elementos que tienen clave y valor
+Propiedades -> Es donde se guardan los datos
+Métodos -> Funcionan como las funciones
+Bucle for…in -> Permite recorrer un objeto obteniendo su clave y valor
+Notación de puntos vs notación de corchetes -> son maneras de acceder a los valores en la notacion de puntos se accede mediante el objeto.valor y 
+en la notacion de corchetes objeto['valor'] similar a los arrays
