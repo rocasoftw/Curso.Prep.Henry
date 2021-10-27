@@ -1,0 +1,2 @@
+prototype -> tienen acceso a la clave this y permiten dar acceso a cada metodo de una clase
+Constructors (de Clases) -> es el codigo que se ejecuta cuando se crea una clase
