@@ -9,17 +9,30 @@ function crearUsuario() {
   // Devuelve la clase
   // Tu código:
 
-  function Usuario(opciones) {
-    this.usuario = opciones.usuario;
-    this.nombre = opciones.nombre;
-    this.email = opciones.email;
-    this.password = opciones.password;
+  // function Usuario(opciones) {
+  //   this.usuario = opciones.usuario;
+  //   this.nombre = opciones.nombre;
+  //   this.email = opciones.email;
+  //   this.password = opciones.password;
+  // }
+
+  // Usuario.prototype.saludar = function() {
+  //   return 'Hola, mi nombre es ' + this.nombre;
+  // };
+
+  // return Usuario;
+
+  class Usuario {
+    constructor(opciones){
+      this.usuario = opciones.usuario;
+      this.nombre = opciones.nombre;
+      this.email = opciones.email;
+      this.password = opciones.password;
+      this.saludar = function(){
+        return 'Hola, mi nombre es ' + this.nombre;
+      };
+    }
   }
-
-  Usuario.prototype.saludar = function() {
-    return 'Hola, mi nombre es ' + this.nombre;
-  };
-
   return Usuario;
 }
 
